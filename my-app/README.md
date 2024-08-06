@@ -1,8 +1,10 @@
-# 1. Chain of events caused by opening the page https://studies.cs.helsinki.fi/exampleapp/notes
+## 1. Chain of events caused by opening the page:
+     https://studies.cs.helsinki.fi/exampleapp/notes
 
 ![alt text](image.png)
 
-## 0.4:New note diagram:The user creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking the Save button.
+## 0.4:New note diagram: 
+The user creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking the Save button.
 
 sequenceDiagram
 participant browser
@@ -33,7 +35,8 @@ participant server
 
 ![alt text](image-1.png)
 
-## 0.5: Single page app diagram:user goes to the single-page app:https://studies.cs.helsinki.fi/exampleapp/spa
+## 0.5: Single page app diagram:
+   user goes to the single-page app:https://studies.cs.helsinki.fi/exampleapp/spa
 
 sequenceDiagram
 participant browser
@@ -59,7 +62,8 @@ participant server
 
 ![alt text](image-2.png)
 
-## 0.6: New note in Single page app diagram:https://studies.cs.helsinki.fi/exampleapp/spa
+## 0.6: New note in Single page app diagram:
+        https://studies.cs.helsinki.fi/exampleapp/spa
 
 sequenceDiagram
 participant browser
